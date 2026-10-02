@@ -1,0 +1,1 @@
+ca7769b7c9cbe84a95fab067bbd0618470c5e3c690438e3790ab24bd9a611ea4  DrifterOS-1.0.8-win-x64.exe
