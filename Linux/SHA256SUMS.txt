@@ -1,0 +1,7 @@
+afb37d59cc94d0b60d0caabe90ad17cd9f7acc39ff9df530fb5364fd3e1bf35a  DrifterOS-2.0.10-linux-amd64.deb
+7a520d2fe59c93cd1641dc353a08517d46c4f7a4b2312f7b179f138708882397  DrifterOS-2.0.10-linux-x86_64.AppImage
+effa6c249bf2ee66af5a555276f829465c058fab6b647e6ffe12518c8775ffa6  DrifterOS-2.0.10-linux-x86_64.rpm
+e826ce44ce378202392c4584fc46a6a4b219b17bb32b827e619ba2225c96ceb5  LICENSE
+52a602ac22a8508b7f0d2dfeeddacfd8e6eedf64b21fd7ea6e2d1a0ecd67c394  README.md
+de1266d7c2146dea720f0f6dbc3dfd3f1bfb69d3eb1f9cd6ad882dd00d71face  drifteros-2.0.10-linux-x64
+b5dbaeaf59869d48e4a7924e0faf4b79ef913532e4c19d3d9f2bc4d539b023ac  setup/setup.sh
