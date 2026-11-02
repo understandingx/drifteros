@@ -1,0 +1,2 @@
+89771736baf180845c7507ffb1eedb76139a6c93013b0f9160795f5b0d0f0d24  DrifterOS-2.0.11-mac-arm64.dmg
+c922b169211b121c5fb7c4ab4e009fbddd7ac157ae381a26d48ead2a3dcccf98  DrifterOS-2.0.11-mac-x64.dmg
